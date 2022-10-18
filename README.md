@@ -1,1 +1,3 @@
-# python
+# Python
+
+Python projects for fun
